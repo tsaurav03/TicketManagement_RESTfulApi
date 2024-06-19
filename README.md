@@ -4,6 +4,9 @@ write a spring boot REST apllication which will provided following CRUD operatio
 2.update ticket details (only status,resolution details,resolution date time can be updated)
 3.fetch all open tickets
 4.fetch ticket by ID
+
+
+
 Ticket has following attributes:
 a.ID(unique identifier for each ticket)
 b.request registered phone number (unique for each user)
